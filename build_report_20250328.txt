@@ -1,0 +1,7 @@
+=== 构建日志日报 ===
+统计时间: 2025-03-28 11:36:56
+总日志行数: 1000
+失败率: 20%
+TOP错误:
+    116 CODE:ERROR_FILE_NOT_FOUND
+     88 CODE:ERROR_PERMISSION_DENIED
